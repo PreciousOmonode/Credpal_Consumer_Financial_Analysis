@@ -1,4 +1,4 @@
-# 📊 [CredPal Consumer Financial Behavior Analysis](https://public.tableau.com/views/CredPal_17618538197580/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# 📊 [CredPal Consumer Financial Behavior Analysis]([https://public.tableau.com/views/CredPal_17618538197580/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/oghenenyerhovwo.omonode2518/viz/CredPal_17618538197580/Consumerpreferencedistributionandspendingpatterns))
 
 
 **Tool:** Tableau | **Dataset:** 10,000 records | **Scope:** 185 Countries · 7 Regions · 12 Consumer Segments
